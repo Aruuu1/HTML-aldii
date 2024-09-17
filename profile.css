@@ -1,0 +1,23 @@
+.info {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.info b {
+    width: 130px;
+    display: inline-block;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.centered-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 200;
+}
